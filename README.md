@@ -34,11 +34,11 @@
 
 ## 🌟 Screenshots
 
-![UI Screenshot](/Screenshot.png)
+![UI Screenshot](/UI_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://weather-app-tau-blond-90.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
@@ -46,7 +46,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## 🙏 Acknowledgments
 
-- [OpenWeatherMap](https://openweathermap.org/) for the weather data API.
 - [Google Fonts](https://fonts.google.com/) for the font families used in the design.
 - [Font Awesome](https://fontawesome.com/) for the icons used in the application.
 
